@@ -1,7 +1,0 @@
-{
-   "credit": "Made with Blockbench by TyBraniff for Bluemaps support.",
-   "parent": "minecraft:entity/white_wall_banner",
-    "textures": {
-       "color": "minecraft:entity/bannercolors/yellow"
-     }
-}
